@@ -1,0 +1,7 @@
+Proceso practico_1
+	DefinIR n1,n2,s Como Real; 
+	Leer n1 ;
+	Leer n2;
+	s<-n1+n2;
+	Escribir s;
+FinProceso
